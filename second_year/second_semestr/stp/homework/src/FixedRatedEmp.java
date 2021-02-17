@@ -9,10 +9,19 @@ public class FixedRatedEmp extends Employee {
         countSalary();
     }
 
+    /**
+     *
+     */
+
     @Override
     void countSalary() {
         salary = rate;
     }
+
+    /**
+     *
+     * @return double salary
+     */
 
     @Override
     public double getSalary() {
