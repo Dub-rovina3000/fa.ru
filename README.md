@@ -5,4 +5,4 @@
 # STP
 ## Домашние работы по предмету "Современные технологии программирования"
 
-* [Домашняя работа №1]() 
+* [Домашняя работа №1](https://github.com/Dub-rovina3000/fa.ru/tree/master/second_year/second_semestr/stp/homework) 
