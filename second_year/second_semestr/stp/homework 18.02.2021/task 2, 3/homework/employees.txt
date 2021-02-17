@@ -1,0 +1,7 @@
+4 Kozlovskii Aleksei 66560.0
+6 Prishchepa Ekaterina 66560.0
+2 Bedak Ivan 49920.0
+1 Badmaev Bair 40000.0
+3 Volkova Tatiana 35000.0
+7 Someone who cannot be named 30000.0
+5 Harry Potter 15000.0
